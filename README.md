@@ -11,7 +11,7 @@
 - Написание чистого и эффективного кода на C#, Python
 
 ### links
-- vk: https://vk.com/leexxeey
-- yt: https://www.youtube.com/@lexeylex691
-- tg: @alleexxeeyy 
-- git: https://github.com/alleexxeeyy
+- [vk](https://vk.com/leexxeey)
+- [yt](https://www.youtube.com/@lexeylex691)
+- [tg](https://t.me/alleexxeeyy)
+- [git](https://github.com/alleexxeeyy)
