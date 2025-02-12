@@ -12,5 +12,6 @@
 
 ### links
 - vk: https://vk.com/leexxeey
+- yt: https://www.youtube.com/@lexeylex691
 - tg: @alleexxeeyy 
 - git: https://github.com/alleexxeeyy
