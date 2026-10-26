@@ -1,5 +1,5 @@
 {
-  "synced": "2026-10-25T14:15:31Z",
+  "synced": "2026-10-26T09:05:48Z",
   "repos": [
     {
       "name": "playerok-universal",
@@ -12,7 +12,7 @@
     {
       "name": "PlayerokAPI",
       "stars": 49,
-      "forks": 6,
+      "forks": 5,
       "version": "1.1",
       "releases": 0,
       "created": "2025-06-11T07:04:55Z"
