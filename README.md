@@ -35,7 +35,7 @@
 [Документация](https://playerokapi.readthedocs.io/ru/latest/)
 
 <details>
-<summary><b>Плагины — 15 модулей для FunPay и Playerok Universal</b></summary>
+<summary><b>Плагины — 13 модулей для FunPay и Playerok Universal</b></summary>
 <br>
 
 | Модуль | Что делает | FunPay | Playerok |
@@ -49,11 +49,9 @@
 | `autorobux` | Продажа Robux через GamePass | | ✓ |
 | `robuxsend` | Продажа Robux переводом через Roblox Plus | ✓ | ✓ |
 | `swizzyerrobux` | Выдача Robux через сервис Swizzyer | ✓ | ✓ |
-| `swizzyerrobuxapp` | Выдача Robux через Swizzyer, управление в Telegram Mini App | ✓ | |
 | `autoapproute` | Продажа услуг из AppRoute | ✓ | ✓ |
 | `autobooster` | Продажа SMM-услуг | ✓ | |
 | `autodumping` | Подстраивает цены лотов под конкурентов | ✓ | |
-| `autochange` | Меняет данные аккаунта после восстановления товара | | ✓ |
 | `aichat` | Отвечает покупателям с помощью ИИ | ✓ | ✓ |
 
 Купить и подключить — [@friedshopbot](https://t.me/friedshopbot). Лицензии и выдача плагинов работают через собственный сервер FriedFries на FastAPI.
@@ -135,7 +133,7 @@ Open to freelance work — **[@friedfluoride](https://t.me/friedfluoride)** on T
 - **[Playerok Universal](https://github.com/alleexxeeyy/playerok-universal)** — assistant bot for Playerok sellers: chats, deals, items, reviews and stats from Telegram, 24/7 online status, quick replies and plugins.
 - **[FunPay Universal](https://github.com/alleexxeeyy/funpay-universal)** — the same toolkit for FunPay: orders, listings, chats, reviews, stats, auto-updates and plugins.
 - **[PlayerokAPI](https://github.com/alleexxeeyy/PlayerokAPI)** — unofficial Python library for Playerok; it powers Playerok Universal.
-- **15 plugins** for both bots — Telegram Stars and Premium, Steam gifts and rentals, Robux, AI chat and more. Sold through [@friedshopbot](https://t.me/friedshopbot).
+- **13 plugins** for both bots — Telegram Stars and Premium, Steam gifts and rentals, Robux, AI chat and more. Sold through [@friedshopbot](https://t.me/friedshopbot).
 
 **Client work** — private code
 
