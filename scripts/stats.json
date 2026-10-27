@@ -1,12 +1,12 @@
 {
-  "synced": "2026-10-26T09:05:48Z",
+  "synced": "2026-10-27T09:08:29Z",
   "repos": [
     {
       "name": "playerok-universal",
       "stars": 60,
       "forks": 17,
-      "version": "1.22.5",
-      "releases": 221,
+      "version": "1.22.6",
+      "releases": 222,
       "created": "2025-06-14T11:46:08Z"
     },
     {
