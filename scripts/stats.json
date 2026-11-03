@@ -1,19 +1,19 @@
 {
-  "synced": "2026-11-02T11:23:21Z",
+  "synced": "2026-11-03T11:00:02Z",
   "repos": [
     {
       "name": "playerok-universal",
       "stars": 60,
       "forks": 17,
-      "version": "1.23",
-      "releases": 224,
+      "version": "1.25",
+      "releases": 226,
       "created": "2025-06-14T11:46:08Z"
     },
     {
       "name": "PlayerokAPI",
       "stars": 48,
       "forks": 5,
-      "version": "1.1",
+      "version": "1.2",
       "releases": 0,
       "created": "2025-06-11T07:04:55Z"
     },
@@ -21,8 +21,8 @@
       "name": "funpay-universal",
       "stars": 22,
       "forks": 3,
-      "version": "1.19",
-      "releases": 135,
+      "version": "1.20",
+      "releases": 136,
       "created": "2025-05-17T15:42:19Z"
     }
   ]
