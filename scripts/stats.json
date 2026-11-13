@@ -1,5 +1,5 @@
 {
-  "synced": "2026-11-12T11:27:21Z",
+  "synced": "2026-11-13T11:11:25Z",
   "repos": [
     {
       "name": "playerok-universal",
@@ -19,7 +19,7 @@
     },
     {
       "name": "funpay-universal",
-      "stars": 22,
+      "stars": 21,
       "forks": 3,
       "version": "1.21.1",
       "releases": 138,
