@@ -35,7 +35,7 @@
 [Документация](https://playerokapi.readthedocs.io/ru/latest/)
 
 <details>
-<summary><b>Плагины — 13 модулей для FunPay и Playerok Universal</b></summary>
+<summary><b>Плагины — 12 модулей для FunPay и Playerok Universal</b></summary>
 <br>
 
 | Модуль | Что делает | FunPay | Playerok |
@@ -46,7 +46,6 @@
 | `autosteamgifts` | Продажа и отправка подарков в Steam | ✓ | ✓ |
 | `autosteamoffline` | Продажа оффлайн-активаций Steam | ✓ | ✓ |
 | `autosteamrental` | Аренда Steam-аккаунтов | ✓ | ✓ |
-| `autorobux` | Продажа Robux через GamePass | | ✓ |
 | `robuxsend` | Продажа Robux переводом через Roblox Plus | ✓ | ✓ |
 | `swizzyerrobux` | Выдача Robux через сервис Swizzyer | ✓ | ✓ |
 | `autoapproute` | Продажа услуг из AppRoute | ✓ | ✓ |
@@ -133,7 +132,7 @@ Open to freelance work — **[@friedfluoride](https://t.me/friedfluoride)** on T
 - **[Playerok Universal](https://github.com/alleexxeeyy/playerok-universal)** — assistant bot for Playerok sellers: chats, deals, items, reviews and stats from Telegram, 24/7 online status, quick replies and plugins.
 - **[FunPay Universal](https://github.com/alleexxeeyy/funpay-universal)** — the same toolkit for FunPay: orders, listings, chats, reviews, stats, auto-updates and plugins.
 - **[PlayerokAPI](https://github.com/alleexxeeyy/PlayerokAPI)** — unofficial Python library for Playerok; it powers Playerok Universal.
-- **13 plugins** for both bots — Telegram Stars and Premium, Steam gifts and rentals, Robux, AI chat and more. Sold through [@friedshopbot](https://t.me/friedshopbot).
+- **12 plugins** for both bots — Telegram Stars and Premium, Steam gifts and rentals, Robux, AI chat and more. Sold through [@friedshopbot](https://t.me/friedshopbot).
 
 **Client work** — private code
 
