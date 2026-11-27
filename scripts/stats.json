@@ -1,5 +1,5 @@
 {
-  "synced": "2026-11-24T13:54:32Z",
+  "synced": "2026-11-27T18:15:13Z",
   "repos": [
     {
       "name": "playerok-universal",
@@ -24,6 +24,14 @@
       "version": "1.21.3",
       "releases": 140,
       "created": "2025-05-17T15:42:19Z"
+    },
+    {
+      "name": "starvell-universal",
+      "stars": 0,
+      "forks": 0,
+      "version": "1.0.0",
+      "releases": 1,
+      "created": "2026-11-26T15:19:34Z"
     }
   ]
 }

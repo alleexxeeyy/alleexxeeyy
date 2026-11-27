@@ -5,7 +5,7 @@
 
 **[Написать в Telegram](https://t.me/friedfluoride)** &nbsp;·&nbsp; [Канал @friedauto](https://t.me/friedauto) &nbsp;·&nbsp; [English](#english)
 
-Разработчик на **Python** и **C#**, беру заказы. Пишу больше пяти лет, в основном — боты и автоматизация для продавцов на FunPay, Playerok, GGSEL и Digiseller: автовыдача, управление ценами, ответы покупателям, всё из Telegram. Ещё делаю Telegram-магазины, парсеры, интеграции с API и десктоп на WPF и Avalonia.
+Разработчик на **Python** и **C#**, беру заказы. Пишу больше пяти лет, в основном — боты и автоматизация для продавцов на FunPay, Playerok, Starvell, GGSEL и Digiseller: автовыдача, управление ценами, ответы покупателям, всё из Telegram. Ещё делаю Telegram-магазины, парсеры, интеграции с API и десктоп на WPF и Avalonia.
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/projects-mobile.svg">
-  <img src="./assets/projects.svg" width="100%" alt="Открытые проекты: Playerok Universal, PlayerokAPI, FunPay Universal — звёзды, версии и число релизов, обновляется раз в сутки">
+  <img src="./assets/projects.svg" width="100%" alt="Открытые проекты: Playerok Universal, PlayerokAPI, FunPay Universal, Starvell Universal — звёзды, версии и число релизов, обновляется раз в сутки">
 </picture>
 
 ### [Playerok Universal](https://github.com/alleexxeeyy/playerok-universal)
@@ -28,6 +28,12 @@
 
 [Релизы](https://github.com/alleexxeeyy/funpay-universal/releases) · [Установка](https://github.com/alleexxeeyy/funpay-universal#%EF%B8%8F-установка)
 
+### [Starvell Universal](https://github.com/alleexxeeyy/starvell-universal)
+
+Помощник для продавцов на Starvell: мгновенные события через сокет, автовыдача, автоподтверждение и автоподнятие лотов, заказы и чаты из Telegram, плагины.
+
+[Релизы](https://github.com/alleexxeeyy/starvell-universal/releases) · [Установка](https://github.com/alleexxeeyy/starvell-universal#%EF%B8%8F-установка)
+
 ### [PlayerokAPI](https://github.com/alleexxeeyy/PlayerokAPI)
 
 Неофициальная Python-библиотека для Playerok: аккаунт, чаты, сделки, товары и слушатель событий. На ней работает Playerok Universal.
@@ -35,23 +41,23 @@
 [Документация](https://playerokapi.readthedocs.io/ru/latest/)
 
 <details>
-<summary><b>Плагины — 12 модулей для FunPay и Playerok Universal</b></summary>
+<summary><b>Плагины — 12 модулей для FunPay, Playerok и Starvell Universal</b></summary>
 <br>
 
-| Модуль | Что делает | FunPay | Playerok |
-| :--- | :--- | :---: | :---: |
-| `autostars` | Продажа Telegram Stars | ✓ | ✓ |
-| `autopremium` | Выдача Telegram Premium через Fragment | ✓ | |
-| `autotggifts` | Отправка Telegram-подарков за звёзды | ✓ | ✓ |
-| `autosteamgifts` | Продажа и отправка подарков в Steam | ✓ | ✓ |
-| `autosteamoffline` | Продажа оффлайн-активаций Steam | ✓ | ✓ |
-| `autosteamrental` | Аренда Steam-аккаунтов | ✓ | ✓ |
-| `robuxsend` | Продажа Robux переводом через Roblox Plus | ✓ | ✓ |
-| `swizzyerrobux` | Выдача Robux через сервис Swizzyer | ✓ | ✓ |
-| `autoapproute` | Продажа услуг из AppRoute | ✓ | ✓ |
-| `autobooster` | Продажа SMM-услуг | ✓ | |
-| `autodumping` | Подстраивает цены лотов под конкурентов | ✓ | |
-| `aichat` | Отвечает покупателям с помощью ИИ | ✓ | ✓ |
+| Модуль | Что делает | FunPay | Playerok | Starvell |
+| :--- | :--- | :---: | :---: | :---: |
+| `autostars` | Продажа Telegram Stars | ✓ | ✓ | |
+| `autopremium` | Выдача Telegram Premium через Fragment | ✓ | | |
+| `autotggifts` | Отправка Telegram-подарков за звёзды | ✓ | ✓ | |
+| `autosteamgifts` | Продажа и отправка подарков в Steam | ✓ | ✓ | |
+| `autosteamoffline` | Продажа оффлайн-активаций Steam | ✓ | ✓ | |
+| `autosteamrental` | Аренда Steam-аккаунтов | ✓ | ✓ | |
+| `robuxsend` | Продажа Robux переводом через Roblox Plus | ✓ | ✓ | ✓ |
+| `swizzyerrobux` | Выдача Robux через сервис Swizzyer | ✓ | ✓ | ✓ |
+| `autoapproute` | Продажа услуг из AppRoute | ✓ | ✓ | |
+| `autobooster` | Продажа SMM-услуг | ✓ | | |
+| `autodumping` | Подстраивает цены лотов под конкурентов | ✓ | | |
+| `aichat` | Отвечает покупателям с помощью ИИ | ✓ | ✓ | |
 
 Купить и подключить — [@friedshopbot](https://t.me/friedshopbot). Лицензии и выдача плагинов работают через собственный сервер FriedFries на FastAPI.
 
@@ -95,7 +101,7 @@
 | Данные | SQLite, MySQL |
 | Сеть и парсинг | curl-cffi, tls-requests, websocket-client, BeautifulSoup, lxml |
 | Нейросети | DeepSeek, OpenAI, Gemini, OpenRouter |
-| Площадки и API | FunPay, Playerok, GGSEL, Digiseller, Kwork, Steam, Fragment, AppRoute, Platega |
+| Площадки и API | FunPay, Playerok, Starvell, GGSEL, Digiseller, Kwork, Steam, Fragment, AppRoute, Platega |
 | Деплой | Linux, systemd, Docker |
 
 </details>
@@ -123,7 +129,7 @@
 <summary><b>English</b></summary>
 <br>
 
-I'm a **Python** and **C#** developer with 5+ years of experience. I mostly build bots and automation for sellers on FunPay, Playerok, GGSEL and Digiseller: auto-delivery, pricing, buyer replies, all managed from Telegram. I also make Telegram stores, scrapers, API integrations and desktop apps with WPF and Avalonia.
+I'm a **Python** and **C#** developer with 5+ years of experience. I mostly build bots and automation for sellers on FunPay, Playerok, Starvell, GGSEL and Digiseller: auto-delivery, pricing, buyer replies, all managed from Telegram. I also make Telegram stores, scrapers, API integrations and desktop apps with WPF and Avalonia.
 
 Open to freelance work — **[@friedfluoride](https://t.me/friedfluoride)** on Telegram.
 
@@ -131,8 +137,9 @@ Open to freelance work — **[@friedfluoride](https://t.me/friedfluoride)** on T
 
 - **[Playerok Universal](https://github.com/alleexxeeyy/playerok-universal)** — assistant bot for Playerok sellers: chats, deals, items, reviews and stats from Telegram, 24/7 online status, quick replies and plugins.
 - **[FunPay Universal](https://github.com/alleexxeeyy/funpay-universal)** — the same toolkit for FunPay: orders, listings, chats, reviews, stats, auto-updates and plugins.
+- **[Starvell Universal](https://github.com/alleexxeeyy/starvell-universal)** — assistant bot for Starvell sellers: instant events over the socket, auto-delivery, auto-confirmation and auto-bumping, orders and chats from Telegram, plugins.
 - **[PlayerokAPI](https://github.com/alleexxeeyy/PlayerokAPI)** — unofficial Python library for Playerok; it powers Playerok Universal.
-- **12 plugins** for both bots — Telegram Stars and Premium, Steam gifts and rentals, Robux, AI chat and more. Sold through [@friedshopbot](https://t.me/friedshopbot).
+- **12 plugins** for the bots — Telegram Stars and Premium, Steam gifts and rentals, Robux, AI chat and more. Sold through [@friedshopbot](https://t.me/friedshopbot).
 
 **Client work** — private code
 

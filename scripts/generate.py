@@ -35,9 +35,10 @@ BOLD = ' class="xb"'
 END = ' text-anchor="end"'
 MIDDLE = ' text-anchor="middle" class="xb"'
 
-REPOS = ["alleexxeeyy/playerok-universal", "alleexxeeyy/PlayerokAPI", "alleexxeeyy/funpay-universal"]
+REPOS = ["alleexxeeyy/playerok-universal", "alleexxeeyy/PlayerokAPI", "alleexxeeyy/funpay-universal",
+         "alleexxeeyy/starvell-universal"]
 
-TICKER = ["python", "c#", "aiogram", "fastapi", "telegram bots", "funpay", "playerok",
+TICKER = ["python", "c#", "aiogram", "fastapi", "telegram bots", "funpay", "playerok", "starvell",
           "ggsel", "digiseller", "wpf", "avalonia", "automation"]
 
 CLIENTS = [
